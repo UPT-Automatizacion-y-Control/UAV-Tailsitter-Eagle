@@ -1,0 +1,50 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../third-party/include/serial/v8stdint.h
+stddef.h
+-
+stdio.h
+-
+stdint.h
+-
+
+/home/kiqmc/Dropbox/Proyecto de Tesis MAC/ALTIMU_10_Calib_Program/Record_data_CPP/test.cpp
+third-party/include/serial/serial.h
+/home/kiqmc/Dropbox/Proyecto de Tesis MAC/ALTIMU_10_Calib_Program/Record_data_CPP/third-party/include/serial/serial.h
+iostream
+-
+fstream
+-
+cstring
+-
+math.h
+-
+string
+-
+thread
+/home/kiqmc/Dropbox/Proyecto de Tesis MAC/ALTIMU_10_Calib_Program/Record_data_CPP/thread
+
+/home/kiqmc/Dropbox/Proyecto de Tesis MAC/ALTIMU_10_Calib_Program/Record_data_CPP/third-party/include/serial/serial.h
+limits
+-
+vector
+-
+string
+-
+cstring
+-
+sstream
+-
+exception
+-
+stdexcept
+-
+serial/v8stdint.h
+-
+

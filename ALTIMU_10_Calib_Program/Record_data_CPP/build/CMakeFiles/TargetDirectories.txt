@@ -1,0 +1,4 @@
+/home/kiqmc/Dropbox/Proyecto de Tesis MAC/ALTIMU_10_Calib_Program/Record_data_CPP/build/CMakeFiles/rebuild_cache.dir
+/home/kiqmc/Dropbox/Proyecto de Tesis MAC/ALTIMU_10_Calib_Program/Record_data_CPP/build/CMakeFiles/edit_cache.dir
+/home/kiqmc/Dropbox/Proyecto de Tesis MAC/ALTIMU_10_Calib_Program/Record_data_CPP/build/CMakeFiles/arduino-communication.dir
+/home/kiqmc/Dropbox/Proyecto de Tesis MAC/ALTIMU_10_Calib_Program/Record_data_CPP/build/CMakeFiles/serial.dir
